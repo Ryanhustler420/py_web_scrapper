@@ -15,3 +15,7 @@ Python, BeautifullSoup, Selenium, Request <- These Package Should Be There After
 > After Installing Package Manage Install Anaconda Using Ctrl+Shift+P > "Anaconda" && "Sublime-text-2-buildview"
 
 > Turn on buildview from ctrl+shift+p and type "buildview" it will show enable/disable
+
+7. Download chromedriver.exe and place somewhere in the computer [driver](https://chromedriver.chromium.org/)
+
+> Make sure your chromedriver and chrome browser version should be same.
